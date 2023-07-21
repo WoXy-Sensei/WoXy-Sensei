@@ -1,9 +1,10 @@
 [![](https://visitcount.itsvg.in/api?id=WoXy-Sensei&icon=2&color=10)](https://visitcount.itsvg.in)
+[![Discord Presence](https://lanyard.kyrie25.me/api/439120092777938944)](https://discord.com/users/439120092777938944)
 <img align="right" alt="Coding" width="400" src="https://data.whicdn.com/images/275179403/original.gif">
 
 <br>
 <br>
-[![Discord Presence](https://lanyard.kyrie25.me/api/439120092777938944)](https://discord.com/users/439120092777938944)
+
 
 
 <img align="right" alt="Coding" width="400" src="https://media.tenor.com/5QHHcRTEe0EAAAAC/opening-pc.gif">
