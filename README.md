@@ -1,5 +1,5 @@
-[![](https://visitcount.itsvg.in/api?id=WoXy-Sensei&icon=2&color=10)](https://visitcount.itsvg.in)
-<img align="right" alt="Coding" width="400" src="https://media.tenor.com/vkouxWLYjsoAAAAd/lain-iwakura-papas-pizzeria.gif">
+![image](https://github.com/WoXy-Sensei/WoXy-Sensei/assets/53876909/a048611f-cca4-4622-a216-a200fa0df800)[![](https://visitcount.itsvg.in/api?id=WoXy-Sensei&icon=2&color=10)](https://visitcount.itsvg.in)
+<img align="right" alt="Coding" width="400" src="https://media.tenor.com/v-d5E2Xnv_sAAAAd/lain-serial-experiments-lain.gif">
 
 <br>
 <br>
