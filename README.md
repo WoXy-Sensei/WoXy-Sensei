@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Bardia Ramez</h1>
 <div align="center"> <img src="https://raw.githubusercontent.com/jaiswaladi246/jaiswaladi246/main/banner2.png"> </div>
 <h3 align="center"> FullStack Developer & Electronics & Machine Learning</h3>
-<img align="right" alt="Coding" width="400" src="https://tenor.com/view/opening-pc-lain-using-gif-20747153">
+<img align="right" alt="Coding" width="400" src="https://media.tenor.com/5QHHcRTEe0EAAAAS/opening-pc.gif">
 
 
 
