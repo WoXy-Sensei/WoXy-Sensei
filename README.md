@@ -1,4 +1,8 @@
-# 💫 About Me:
+[![](https://visitcount.itsvg.in/api?id=WoXy-Sensei&icon=2&color=10)](https://visitcount.itsvg.in)
+<img align="right" alt="Coding" width="400" src="https://media.tenor.com/5QHHcRTEe0EAAAAC/opening-pc.gif">
+<br>
+
+<strong>About Me 💫</strong> <br><br>
 👨‍💻 All of my projects are available at bardiaramez.net<br><br>💬 Ask me about Python, NodeJS, C++, HTML&CSS<br><br>📫 How to reach me contact@bardiaramez.net<br><br>⚡ Fun fact I think I'm funny
 
 
@@ -18,10 +22,8 @@
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=WoXy-Sensei&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
-### 😂 Random Dev Meme
-<img src="https://rm.up.railway.app/" width="512px"/>
 
----
-[![](https://visitcount.itsvg.in/api?id=WoXy-Sensei&icon=2&color=10)](https://visitcount.itsvg.in)
+
+
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
