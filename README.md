@@ -1,4 +1,11 @@
 [![](https://visitcount.itsvg.in/api?id=WoXy-Sensei&icon=2&color=10)](https://visitcount.itsvg.in)
+<img align="right" alt="Coding" width="400" src="https://media.tenor.com/vkouxWLYjsoAAAAd/lain-iwakura-papas-pizzeria.gif">
+
+<br>
+<br>
+ <img src="https://lanyard-profile-readme.vercel.app/api/439120092777938944?bg=0a0f16" alt="Discord Profile"/>
+
+
 <img align="right" alt="Coding" width="400" src="https://media.tenor.com/5QHHcRTEe0EAAAAC/opening-pc.gif">
 <br>
 
@@ -22,7 +29,7 @@
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=WoXy-Sensei&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
-
+<img align="center" alt="Coding" width="800" src="https://3.bp.blogspot.com/-vno-4JW2s-I/VcU1sfzYprI/AAAAAAAAKgQ/Vz0pSigkDhI/s1600/serial_experiments_lain_banner_by_windwriter5-d34rk5f.jpg">
 
 
 
