@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Bardia Ramez</h1>
-<div align="center"> <img src="https://raw.githubusercontent.com/jaiswaladi246/jaiswaladi246/main/banner2.png"> </div>
+<div align="center"> <img src="https://img.freepik.com/free-vector/background-with-night-city-neon-lights_1441-2588.jpg?w=1480&t=st=1689967916~exp=1689968516~hmac=84c943236b5d24d39a102594e2c0e52b2b02eae845aff652edfbeb8a91e9aa96"> </div>
 <h3 align="center"> FullStack Developer & Electronics & Machine Learning</h3>
 <img align="right" alt="Coding" width="400" src="https://media.tenor.com/5QHHcRTEe0EAAAAC/opening-pc.gif">
 
