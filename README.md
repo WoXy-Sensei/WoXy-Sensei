@@ -3,7 +3,9 @@
 
 <br>
 <br>
- <img src="https://lanyard-profile-readme.vercel.app/api/439120092777938944?bg=000&idleMessage=coding..." alt="Discord Profile"/>
+
+[![Discord Presence](https://lanyard.cnrad.dev/api/439120092777938944)](https://discord.com/users/439120092777938944)
+
 
 
 <img align="right" alt="Coding" width="400" src="https://media.tenor.com/5QHHcRTEe0EAAAAC/opening-pc.gif">
