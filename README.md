@@ -4,7 +4,7 @@
 <br>
 <br>
 
-[![Discord Presence](https://lanyard.cnrad.dev/api/439120092777938944)](https://discord.com/users/439120092777938944)
+[![Discord Presence](https://lanyard.kyrie25.me/api/439120092777938944?waveColor=8B8BFA&waveSpotifyColor=B48EF7&gradient=7E37F9-B48EF7-E568C4&imgStyle=square)](https://discord.com/users/439120092777938944)
 
 
 
