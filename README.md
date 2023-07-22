@@ -1,5 +1,5 @@
 [![](https://visitcount.itsvg.in/api?id=WoXy-Sensei&icon=2&color=10)](https://visitcount.itsvg.in)
-<img align="right" alt="Coding" width="400" src="https://media.tenor.com/vkouxWLYjsoAAAAd/lain-iwakura-papas-pizzeria.gif">
+<img align="right" alt="Coding" width="400" src="https://data.whicdn.com/images/275179403/original.gif">
 
 <br>
 <br>
