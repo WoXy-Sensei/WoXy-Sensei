@@ -12,7 +12,7 @@
 <br>
 
 <strong>About Me 💫</strong> <br><br>
-👨‍💻 All of my projects are available at <a href="https://www.bardiaramez.net">bardiaramez.net</a> <br><br>💬 Ask me about Python, NodeJS, C++, HTML&CSS<br><br>📫 How to reach me contact@bardiaramez.net<br><br>⚡ Fun fact I think I'm funny
+👨‍💻 My website <a href="https://www.bardiaramez.net">bardiaramez.net</a> <br><br>💬 Ask me about Python, NodeJS, C++, HTML&CSS<br><br>📫 How to reach me contact@bardiaramez.net<br><br>⚡ Fun fact I think I'm funny
 
 
 ## 🌐 Socials:
