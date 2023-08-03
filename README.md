@@ -23,12 +23,9 @@
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=WoXy-Sensei&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=WoXy-Sensei&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
 <img align="center" alt="Coding" width="450" src="https://3.bp.blogspot.com/-vno-4JW2s-I/VcU1sfzYprI/AAAAAAAAKgQ/Vz0pSigkDhI/s1600/serial_experiments_lain_banner_by_windwriter5-d34rk5f.jpg">
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=WoXy-Sensei&limit=5&theme=dark&combine_all_yearly_contributions=true)
+
 
 
 
