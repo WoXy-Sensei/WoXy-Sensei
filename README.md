@@ -8,7 +8,6 @@
 
 
 
-<img align="right" alt="Coding" width="400" src="https://media.tenor.com/5QHHcRTEe0EAAAAC/opening-pc.gif">
 <br>
 
 <strong>About Me 💫</strong> <br><br>
