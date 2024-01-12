@@ -1,6 +1,6 @@
 <br clear="both">
 
-<h1 align="center">I'm Bardi 🍁</h1>
+<h1 align="center">I'm Bardia 🍁</h1>
 
 ###
 
