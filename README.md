@@ -1,6 +1,6 @@
 <br clear="both">
 
-<h1 align="center">I'm Bardia 🍁</h1>
+<h1 align="center">I'm Bardi 🍁</h1>
 
 ###
 
@@ -11,7 +11,7 @@
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=WoXy-Sensei&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="100" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=WoXy-Sensei&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=WoXy-Sensei&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
 </div>
 
@@ -55,7 +55,7 @@
 
 ###
 
-<img align="right" height="250" src="https://lanyard.kyrie25.me/api/439120092777938944?waveColor=8B8BFA&waveSpotifyColor=B48EF7&gradient=7E37F9-B48EF7-E568C4&imgStyle=square"  />
+<img align="right" height="200" src="https://lanyard.kyrie25.me/api/439120092777938944?waveColor=8B8BFA&waveSpotifyColor=B48EF7&gradient=7E37F9-B48EF7-E568C4&imgStyle=square"  />
 
 ###
 
