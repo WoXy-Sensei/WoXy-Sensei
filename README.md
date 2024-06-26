@@ -63,7 +63,12 @@
 
 ###
 
-<p align="left">Hello Bardia, I've been interested in software and electronics since middle school. Currently, I am studying electronics at a technical high school. Additionally, I have developed an interest and proficiency in artificial intelligence, participating in various competitions in this field.</p>
+<p align="left">
+Hello, I'm Bardia. I am passionate about web software and electronics, constantly exploring the latest advancements in these fields. My curiosity doesn't stop there; I am also deeply fascinated by artificial intelligence and its transformative potential across various industries.
+
+As a freelancer, I have the flexibility to work on diverse and exciting projects, allowing me to apply my skills in web development, electronics, and AI. My goal is to leverage my expertise to create innovative solutions that make a positive impact.
+
+Feel free to reach out to me if you're interested in collaborating on a project or simply want to discuss the latest trends in technology!</p>
 
 ###
 
