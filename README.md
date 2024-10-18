@@ -53,22 +53,15 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
 </div>
 
-###
-
-<img align="right" height="200" src="https://lanyard.kyrie25.me/api/439120092777938944?waveColor=8B8BFA&waveSpotifyColor=B48EF7&gradient=7E37F9-B48EF7-E568C4&imgStyle=square"  />
-
-###
-
 <h3 align="left">About me ❄</h3>
 
 ###
 
-<p align="left">
-Hello, I'm Bardia. I am passionate about web software and electronics, constantly exploring the latest advancements in these fields. My curiosity doesn't stop there; I am also deeply fascinated by artificial intelligence and its transformative potential across various industries.
+I'm Bardia, a passionate 17-year-old who’s deeply into web development, robotics, and electronics! I love building web apps and web APIs, and my favorite JavaScript framework is Vue.js, especially with Nuxt.js.
 
-As a freelancer, I have the flexibility to work on diverse and exciting projects, allowing me to apply my skills in web development, electronics, and AI. My goal is to leverage my expertise to create innovative solutions that make a positive impact.
+Currently, I’m studying Electronics & Telecommunications in high school, and my interest in embedded systems and robotics continues to grow. I also have a thing for artificial intelligence, having participated in AI competitions to push my limits.
 
-Feel free to reach out to me if you're interested in collaborating on a project or simply want to discuss the latest trends in technology!</p>
+When I'm not coding or tinkering with electronics, you can find me exploring new tech and creating exciting projects.
 
 ###
 
