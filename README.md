@@ -7,9 +7,9 @@
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=WoXy-Sensei&hide_title=false&hide_rank=false&show_icons=false&include_all_commits=true&count_private=true&disable_animations=false&theme=midnight-purple&locale=en&hide_border=true" height="120" alt="stats graph"  />
-  <img src="https://streak-stats.demolab.com?user=WoXy-Sensei&locale=en&mode=daily&theme=midnight-purple&hide_border=true&border_radius=5" height="120" alt="streak graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=WoXy-Sensei&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=8&theme=midnight-purple&hide_border=true" height="120" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=WoXy-Sensei&hide_title=false&hide_rank=false&show_icons=false&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=en&hide_border=true" height="120" alt="stats graph"  />
+  <img src="https://streak-stats.demolab.com?user=WoXy-Sensei&locale=en&mode=daily&theme=dark&hide_border=true&border_radius=5" height="120" alt="streak graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=WoXy-Sensei&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=8&theme=dark&hide_border=true" height="120" alt="languages graph"  />
 </div>
 
 ###
