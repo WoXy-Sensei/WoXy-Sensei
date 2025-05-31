@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">> OS: Fedora  <br>> Editor: zed | Theme: One Dark Pro Max<br>> <a href="https://open.spotify.com/user/m5bwb9ytdyh34uhyoz5b314yo" target="_blank"> Spotify </a></p>
+<p align="left">> OS: Fedora  <br>> Editor: zed | Theme: One Dark Pro Max<br>> <a href="https://open.spotify.com/user/m5bwb9ytdyh36uhyoz5b314yo?si=f4c0cde841454330" target="_blank"> Spotify </a></p>
 
 ###
 
